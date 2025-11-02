@@ -1,9 +1,4 @@
-hello
-
-sfsfsf
-
-
-fsfsfs
-
-something
-#include <stdio.h>
+#include<stdio.h>
+intmain(){
+    return 0;
+}
